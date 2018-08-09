@@ -3,17 +3,17 @@
   "filename": "js/bootstrap-datagrid.js",
   "version": "0.3.0",
   "description": "A bootstrap plugin for datagrid table",
-  "homepage": "https://github.com/toopay/bootstrap-datagrid",
+  "homepage": "https://github.com/topchiyev/bootstrap-datagrid",
   "keywords": [
     "bootstrap",
     "datagrid"
   ],
   "maintainers": [{
-    "name": "Taufan Aditya",
-    "web": "https://github.com/toopay"
+    "name": "Pasha Topchiyev",
+    "web": "https://github.com/topchiyev"
   }],
   "repositories": [{
     "type": "git",
-    "url": "https://github.com/toopay/bootstrap-datagrid.git"
+    "url": "https://github.com/topchiyev/bootstrap-datagrid.git"
   }]
 }

@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-datagrid",
   "filename": "js/bootstrap-datagrid.js",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A bootstrap plugin for datagrid table",
   "homepage": "https://github.com/topchiyev/bootstrap-datagrid",
   "keywords": [
